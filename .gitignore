@@ -1,0 +1,17 @@
+*.swp
+.*.swp
+
+.DS_Store
+*~
+.project
+.settings
+npm-debug.log
+coverage.html
+.idea
+lib-cov
+
+node_modules/*
+
+!node_modules/ini
+
+lib/
