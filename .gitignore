@@ -10,8 +10,4 @@ coverage.html
 .idea
 lib-cov
 
-node_modules/*
-
-!node_modules/ini
-
-lib/
+node_modules
